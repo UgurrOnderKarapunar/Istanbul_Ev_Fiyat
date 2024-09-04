@@ -13,4 +13,4 @@ Bu proje, İstanbul'un ilçelerini kapsayan sentetik veriler kullanarak ev kira 
 - Diğer gerekli Python kütüphaneleri (örneğin, Pandas, NumPy)
 
 ### Kurulum
-git clone https://github.com/kullaniciadi/istanbul-ev-kira-tahmini.git
+https://istanbulevf-yat-xvlua2g8srezbtkelfe3ft.streamlit.app/
